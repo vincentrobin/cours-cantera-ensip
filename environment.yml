@@ -1,0 +1,9 @@
+name: example-environment
+channels:
+  - cantera
+  - cantera/label/dev
+dependencies:
+  - numpy
+  - matplotlib
+  - pandas
+  - cantera
